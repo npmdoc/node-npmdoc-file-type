@@ -1,8 +1,8 @@
 # npmdoc-file-type
 
-api documentation for  [file-type (v4.2.0)](https://github.com/sindresorhus/file-type#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-file-type.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-file-type) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-file-type.svg)](https://travis-ci.org/npmdoc/node-npmdoc-file-type)
+#### basic api documentation for  [file-type (v4.2.0)](https://github.com/sindresorhus/file-type#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-file-type.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-file-type) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-file-type.svg)](https://travis-ci.org/npmdoc/node-npmdoc-file-type)
 
-Detect the file type of a Buffer/Uint8Array
+#### Detect the file type of a Buffer/Uint8Array
 
 [![NPM](https://nodei.co/npm/file-type.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/file-type)
 
@@ -146,7 +146,8 @@ Detect the file type of a Buffer/Uint8Array
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "4.2.0"
+    "version": "4.2.0",
+    "bin": {}
 }
 ```
 
